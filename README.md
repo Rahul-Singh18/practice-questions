@@ -25,4 +25,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0620-not-boring-movies](https://github.com/Rahul-Singh18/practice-questions/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/Rahul-Singh18/practice-questions/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Rahul-Singh18/practice-questions/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+| [1075-project-employees-i](https://github.com/Rahul-Singh18/practice-questions/tree/main/1075-project-employees-i/) | Easy |
 <!---LeetCode Topics End-->
