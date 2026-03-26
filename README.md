@@ -30,4 +30,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Rahul-Singh18/practice-questions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1179-reformat-department-table](https://github.com/Rahul-Singh18/practice-questions/tree/main/1179-reformat-department-table/) | Easy |
 | [1251-average-selling-price](https://github.com/Rahul-Singh18/practice-questions/tree/main/1251-average-selling-price/) | Easy |
+| [1280-students-and-examinations](https://github.com/Rahul-Singh18/practice-questions/tree/main/1280-students-and-examinations/) | Easy |
 <!---LeetCode Topics End-->
