@@ -32,4 +32,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1251-average-selling-price](https://github.com/Rahul-Singh18/practice-questions/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/Rahul-Singh18/practice-questions/tree/main/1280-students-and-examinations/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Rahul-Singh18/practice-questions/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
+| [1407-top-travellers](https://github.com/Rahul-Singh18/practice-questions/tree/main/1407-top-travellers/) | Easy |
 <!---LeetCode Topics End-->
