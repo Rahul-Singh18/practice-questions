@@ -34,4 +34,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Rahul-Singh18/practice-questions/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1407-top-travellers](https://github.com/Rahul-Singh18/practice-questions/tree/main/1407-top-travellers/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/Rahul-Singh18/practice-questions/tree/main/1484-group-sold-products-by-the-date/) | Easy |
+| [1517-find-users-with-valid-e-mails](https://github.com/Rahul-Singh18/practice-questions/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 <!---LeetCode Topics End-->
