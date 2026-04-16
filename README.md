@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Rahul-Singh18/practice-questions/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/Rahul-Singh18/practice-questions/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1795-rearrange-products-table](https://github.com/Rahul-Singh18/practice-questions/tree/main/1795-rearrange-products-table/) | Easy |
+| [1873-calculate-special-bonus](https://github.com/Rahul-Singh18/practice-questions/tree/main/1873-calculate-special-bonus/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
