@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1873-calculate-special-bonus](https://github.com/Rahul-Singh18/practice-questions/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1890-the-latest-login-in-2020](https://github.com/Rahul-Singh18/practice-questions/tree/main/1890-the-latest-login-in-2020/) | Easy |
 | [1965-employees-with-missing-information](https://github.com/Rahul-Singh18/practice-questions/tree/main/1965-employees-with-missing-information/) | Easy |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Rahul-Singh18/practice-questions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
