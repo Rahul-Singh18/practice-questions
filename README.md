@@ -54,4 +54,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Rahul-Singh18/practice-questions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 | [3436-find-valid-emails](https://github.com/Rahul-Singh18/practice-questions/tree/main/3436-find-valid-emails/) | Easy |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/Rahul-Singh18/practice-questions/tree/main/3465-find-products-with-valid-serial-numbers/) | Easy |
+| [3570-find-books-with-no-available-copies](https://github.com/Rahul-Singh18/practice-questions/tree/main/3570-find-books-with-no-available-copies/) | Easy |
 <!---LeetCode Topics End-->
