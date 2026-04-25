@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0196-delete-duplicate-emails](https://github.com/Rahul-Singh18/practice-questions/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/Rahul-Singh18/practice-questions/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/Rahul-Singh18/practice-questions/tree/main/0577-employee-bonus/) | Easy |
+| [0585-investments-in-2016](https://github.com/Rahul-Singh18/practice-questions/tree/main/0585-investments-in-2016/) | Medium |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Rahul-Singh18/practice-questions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Rahul-Singh18/practice-questions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0601-human-traffic-of-stadium](https://github.com/Rahul-Singh18/practice-questions/tree/main/0601-human-traffic-of-stadium/) | Hard |
